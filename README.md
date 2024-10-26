@@ -1,5 +1,7 @@
-Hello, I'm [Your Name] 👋
+Hello, I'm Pierre Philippe 
+
 Overview
+
 I am a passionate and motivated data enthusiast with a focus on Business Intelligence (BI) and data analytics. With hands-on experience in data analysis, visualization, and reporting, I am committed to turning data into actionable insights. I recently completed a BI Analyst bootcamp at TripleTen, where I honed my skills in various BI tools and techniques, and I am currently applying those skills in real-world projects.
 
 Skills
